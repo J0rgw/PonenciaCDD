@@ -63,7 +63,7 @@ Este repositorio contiene los ejemplos y patrones presentados en la charla técn
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/cdd-react-typescript.git
+git clone https://github.com/J0rgw/PonenciaCDD.git
 cd cdd-react-typescript
 
 # Instalar dependencias con pnpm (recomendado)
